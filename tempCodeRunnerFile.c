@@ -1,6 +1,2 @@
-int count = 1;
-    // while(count < 5){
-    //     printf("While loop in c \n");
-    //     printf("Count = %d\n", count);
-    //     count++;
-    // }
+   // printf("%d\n", array[0][0]);
+    // printf("%d\n", array[1][2]);
